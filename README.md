@@ -11,8 +11,6 @@
         <p> Inquiry: Selected HUD homeless shelter datasets to discover patterns in pandemic-era homeless youth migration.</p> 
         <p> Methods & Tools: Added Tableau dimension filters and created calculated fields to hand-pick, clean and organize key total percent youth         bed data points for analysis. In the final Tableau dashboard, instituted a tri-color legend for bubble charts, ascending scatterplots, and 
         column charts to show changes in percent of available beds for the years 2018, 2019 and 2020.</p>
-        <p> Determined that the Covid-19 pandemic created significant changes in available beds for transitional homeless youth in shelters in the 
-            U.S. and New York from 2019-2020.</p>
         <p> Analysis: Determined that the Covid-19 pandemic created significant changes in available beds for transitional homeless youth in    
             shelters in the U.S. and New York from 2019-2020.</p>
         <p> Recommendation: Review the implications of nationwide homeless youth migration patterns as they affect the changing quantity of housing 
