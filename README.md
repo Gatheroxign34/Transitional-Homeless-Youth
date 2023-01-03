@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MdY8MCHx_oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<body>
+
     <h1> What percentage of beds in homeless shelters were reserved for youth during the pandemic? </h1>
         <p> This project explores this question using U.S. Housing and Urban Development data with Salesforce Tableau </p>
         <p> Inquiry: Selected HUD homeless shelter datasets to discover patterns in pandemic-era homeless youth migration.</p> 
