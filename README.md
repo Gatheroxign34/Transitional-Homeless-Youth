@@ -18,7 +18,7 @@
         <p> Recommendation: Review the implications of nationwide homeless youth migration patterns as they affect the changing quantity of housing 
             resources needed in each U.S. state.  
         </p>
-<h4> Click below to see the final dashboard that is interactive <h4> 
+<h4> Click below to see the final dashboard that is interactive: <h4> 
 <a href = "https://public.tableau.com/views/HomelessShelterforTransitionalYouth2018-2020/TransitionalYouthHousing2018-20202?:language=en-US&:display_count=n&:origin=viz_share_link"> Interactive Tableau Dashboard </a>     
 </body>
        
