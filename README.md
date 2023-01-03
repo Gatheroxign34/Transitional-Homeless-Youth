@@ -19,6 +19,6 @@
 </p>
         
 </body>
-        [https://public.tableau.com/views/HomelessShelterforTransitionalYouth2018-2020/TransitionalYouthHousing2018-20202?:language=en-US&:display_count=n&:origin=viz_share_link](url)
+       
 </html> 
 
