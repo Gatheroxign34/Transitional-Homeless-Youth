@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<img src=”https://public.tableau.com/app/profile/latoya.hinton/viz/HomelessShelterforTransitionalYouth2018-2020/TransitionalYouthHousing2018-20202”>
               
     <h1> What percentage of beds in homeless shelters were reserved for youth during the pandemic? </h1>
         <p> This project explores this question using U.S. Housing and Urban Development data with Salesforce Tableau </p>
