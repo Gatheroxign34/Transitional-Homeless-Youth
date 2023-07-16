@@ -1,4 +1,4 @@
-
+![Transitional Youth Housing 2018-2020 (2)](https://github.com/Gatheroxign34/Transitional-Homeless-Youth/assets/94628744/fddc3875-2090-43b3-9c4e-5579f293706b)
 
     <h1> What percentage of beds in homeless shelters were reserved for youth during the pandemic? </h1>
         <p> This project explores this question using U.S. Housing and Urban Development data with Salesforce Tableau </p>
