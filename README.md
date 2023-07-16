@@ -1,7 +1,7 @@
 
 <body>
     <h1> What percentage of beds in homeless shelters were reserved for youth during the pandemic? </h1>
-    <img> src=”https://public.tableau.com/app/profile/latoya.hinton/viz/HomelessShelterforTransitionalYouth2018-2020/TransitionalYouthHousing2018-20202”</img>
+    <img src=”https://public.tableau.com/app/profile/latoya.hinton/viz/HomelessShelterforTransitionalYouth2018-2020/TransitionalYouthHousing2018-20202.png”>
         <p> This project explores this question using U.S. Housing and Urban Development data with Salesforce Tableau </p>
         <p> Inquiry: Selected HUD homeless shelter datasets to discover patterns in pandemic-era homeless youth migration.</p> 
         <p> Methods & Tools: Added Tableau dimension filters and created calculated fields to hand-pick, clean and organize key total 
